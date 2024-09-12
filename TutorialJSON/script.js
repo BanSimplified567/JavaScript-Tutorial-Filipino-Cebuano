@@ -27,7 +27,11 @@ let person = {
 - a JSON Data should have a key | value pair and a colon ':' in the middle JSONs should be surrounded by {}
 
 // JSON Example
-
+let person = {
+   firstname: "BanBan",
+   lastname: "Mifu",
+   age: 22
+}
 */
 
 /*
